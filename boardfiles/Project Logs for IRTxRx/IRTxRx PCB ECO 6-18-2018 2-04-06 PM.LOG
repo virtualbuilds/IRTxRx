@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Added Component: Designator=C4(C_0603)
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Member To Class: ClassName=IRTxRx Member=Component C6 C1608X7R1A225K080AC
+Added Member To Class: ClassName=IRTxRx Member=Component R3 RES 240 OHM 1/10W 1% 0603 SMD
+Added Room: Name=IRTxRx

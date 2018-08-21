@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [IRTxRx.PrjPCB]
+   Generated File[IRTxRxPanel.GTL]
+   Generated File[IRTxRxPanel.GBL]
+   Generated File[IRTxRxPanel.GTO]
+   Generated File[IRTxRxPanel.GTP]
+   Generated File[IRTxRxPanel.GTS]
+   Generated File[IRTxRxPanel.GBS]
+   Generated File[IRTxRxPanel.GBP]
+   Generated File[IRTxRxPanel.GBO]
+   Generated File[IRTxRxPanel.GM2]
+   Generated File[IRTxRxPanel.RUL]
+   Generated File[IRTxRxPanel.EXTREP]
+   Generated File[IRTxRxPanel.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 5:40:33 PM On 6/18/2018
