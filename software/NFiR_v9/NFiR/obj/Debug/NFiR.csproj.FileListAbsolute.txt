@@ -1,0 +1,90 @@
+c:\users\bernabe\documents\visual studio 2015\Projects\NFiR\NFiR\bin\Debug\NFiR.exe.config
+c:\users\bernabe\documents\visual studio 2015\Projects\NFiR\NFiR\bin\Debug\NFiR.exe
+c:\users\bernabe\documents\visual studio 2015\Projects\NFiR\NFiR\bin\Debug\NFiR.pdb
+c:\users\bernabe\documents\visual studio 2015\Projects\NFiR\NFiR\obj\Debug\NFiR.csprojResolveAssemblyReference.cache
+c:\users\bernabe\documents\visual studio 2015\Projects\NFiR\NFiR\obj\Debug\NFiR.Form1.resources
+c:\users\bernabe\documents\visual studio 2015\Projects\NFiR\NFiR\obj\Debug\NFiR.Properties.Resources.resources
+c:\users\bernabe\documents\visual studio 2015\Projects\NFiR\NFiR\obj\Debug\NFiR.csproj.GenerateResource.Cache
+c:\users\bernabe\documents\visual studio 2015\Projects\NFiR\NFiR\obj\Debug\NFiR.exe
+c:\users\bernabe\documents\visual studio 2015\Projects\NFiR\NFiR\obj\Debug\NFiR.pdb
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v2\NFiR\bin\Debug\NFiR.exe.config
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v2\NFiR\obj\Debug\NFiR.exe
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v2\NFiR\obj\Debug\NFiR.pdb
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v2\NFiR\bin\Debug\NFiR.exe
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v2\NFiR\bin\Debug\NFiR.pdb
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v2\NFiR\obj\Debug\NFiR.csprojResolveAssemblyReference.cache
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v2\NFiR\obj\Debug\NFiR.Form1.resources
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v2\NFiR\obj\Debug\NFiR.Properties.Resources.resources
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v2\NFiR\obj\Debug\NFiR.csproj.GenerateResource.Cache
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v3\NFiR\bin\Debug\NFiR.exe.config
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v3\NFiR\obj\Debug\NFiR.exe
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v3\NFiR\obj\Debug\NFiR.pdb
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v3\NFiR\bin\Debug\NFiR.exe
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v3\NFiR\bin\Debug\NFiR.pdb
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v3\NFiR\obj\Debug\NFiR.csprojResolveAssemblyReference.cache
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v3\NFiR\obj\Debug\NFiR.Form1.resources
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v3\NFiR\obj\Debug\NFiR.Properties.Resources.resources
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v3\NFiR\obj\Debug\NFiR.csproj.GenerateResource.Cache
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v4\NFiR\bin\Debug\NFiR.exe.config
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v4\NFiR\obj\Debug\NFiR.exe
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v4\NFiR\obj\Debug\NFiR.pdb
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v4\NFiR\bin\Debug\NFiR.exe
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v4\NFiR\bin\Debug\NFiR.pdb
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v4\NFiR\obj\Debug\NFiR.csprojResolveAssemblyReference.cache
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v4\NFiR\obj\Debug\NFiR.Form1.resources
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v4\NFiR\obj\Debug\NFiR.Properties.Resources.resources
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v4\NFiR\obj\Debug\NFiR.csproj.GenerateResource.Cache
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v5\NFiR\bin\Debug\NFiR.exe.config
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v5\NFiR\obj\Debug\NFiR.exe
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v5\NFiR\obj\Debug\NFiR.pdb
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v5\NFiR\bin\Debug\NFiR.exe
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v5\NFiR\bin\Debug\NFiR.pdb
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v5\NFiR\obj\Debug\NFiR.csprojResolveAssemblyReference.cache
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v5\NFiR\obj\Debug\NFiR.Form1.resources
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v5\NFiR\obj\Debug\NFiR.Properties.Resources.resources
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v5\NFiR\obj\Debug\NFiR.csproj.GenerateResource.Cache
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v6\NFiR\bin\Debug\NFiR.exe.config
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v6\NFiR\obj\Debug\NFiR.exe
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v6\NFiR\obj\Debug\NFiR.pdb
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v6\NFiR\bin\Debug\NFiR.exe
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v6\NFiR\bin\Debug\NFiR.pdb
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v6\NFiR\obj\Debug\NFiR.csprojResolveAssemblyReference.cache
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v6\NFiR\obj\Debug\NFiR.Form1.resources
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v6\NFiR\obj\Debug\NFiR.Properties.Resources.resources
+C:\Users\bernabe\Documents\Visual Studio 2015\Projects\NFiR_v6\NFiR\obj\Debug\NFiR.csproj.GenerateResource.Cache
+Z:\Bernabe\Projects\Transceiver\NFiR_v7\NFiR\bin\Debug\NFiR.exe.config
+Z:\Bernabe\Projects\Transceiver\NFiR_v7\NFiR\obj\Debug\NFiR.exe
+Z:\Bernabe\Projects\Transceiver\NFiR_v7\NFiR\obj\Debug\NFiR.pdb
+Z:\Bernabe\Projects\Transceiver\NFiR_v7\NFiR\bin\Debug\NFiR.exe
+Z:\Bernabe\Projects\Transceiver\NFiR_v7\NFiR\bin\Debug\NFiR.pdb
+Z:\Bernabe\Projects\Transceiver\NFiR_v7\NFiR\obj\Debug\NFiR.csprojResolveAssemblyReference.cache
+Z:\Bernabe\Projects\Transceiver\NFiR_v7\NFiR\obj\Debug\NFiR.Form1.resources
+Z:\Bernabe\Projects\Transceiver\NFiR_v7\NFiR\obj\Debug\NFiR.Properties.Resources.resources
+Z:\Bernabe\Projects\Transceiver\NFiR_v7\NFiR\obj\Debug\NFiR.csproj.GenerateResource.Cache
+Z:\Bernabe\Projects\Transceiver\NFiR_v8\NFiR\bin\Debug\NFiR.exe.config
+Z:\Bernabe\Projects\Transceiver\NFiR_v8\NFiR\obj\Debug\NFiR.exe
+Z:\Bernabe\Projects\Transceiver\NFiR_v8\NFiR\obj\Debug\NFiR.pdb
+Z:\Bernabe\Projects\Transceiver\NFiR_v8\NFiR\bin\Debug\NFiR.exe
+Z:\Bernabe\Projects\Transceiver\NFiR_v8\NFiR\bin\Debug\NFiR.pdb
+Z:\Bernabe\Projects\Transceiver\NFiR_v8\NFiR\obj\Debug\NFiR.csprojResolveAssemblyReference.cache
+Z:\Bernabe\Projects\Transceiver\NFiR_v8\NFiR\obj\Debug\NFiR.Form1.resources
+Z:\Bernabe\Projects\Transceiver\NFiR_v8\NFiR\obj\Debug\NFiR.Properties.Resources.resources
+Z:\Bernabe\Projects\Transceiver\NFiR_v8\NFiR\obj\Debug\NFiR.csproj.GenerateResource.Cache
+Z:\Bernabe\Projects\Transceiver\NFiR_v9\NFiR\bin\Debug\NFiR.exe.config
+Z:\Bernabe\Projects\Transceiver\NFiR_v9\NFiR\obj\Debug\NFiR.exe
+Z:\Bernabe\Projects\Transceiver\NFiR_v9\NFiR\obj\Debug\NFiR.pdb
+Z:\Bernabe\Projects\Transceiver\NFiR_v9\NFiR\bin\Debug\NFiR.exe
+Z:\Bernabe\Projects\Transceiver\NFiR_v9\NFiR\bin\Debug\NFiR.pdb
+Z:\Bernabe\Projects\Transceiver\NFiR_v9\NFiR\obj\Debug\NFiR.csprojResolveAssemblyReference.cache
+Z:\Bernabe\Projects\Transceiver\NFiR_v9\NFiR\obj\Debug\NFiR.Form1.resources
+Z:\Bernabe\Projects\Transceiver\NFiR_v9\NFiR\obj\Debug\NFiR.Properties.Resources.resources
+Z:\Bernabe\Projects\Transceiver\NFiR_v9\NFiR\obj\Debug\NFiR.csproj.GenerateResource.Cache
+V:\products\IRTxRx\software\NFiR_v9\NFiR\bin\Debug\NFiR.exe.config
+V:\products\IRTxRx\software\NFiR_v9\NFiR\obj\Debug\NFiR.exe
+V:\products\IRTxRx\software\NFiR_v9\NFiR\obj\Debug\NFiR.pdb
+V:\products\IRTxRx\software\NFiR_v9\NFiR\bin\Debug\NFiR.exe
+V:\products\IRTxRx\software\NFiR_v9\NFiR\bin\Debug\NFiR.pdb
+V:\products\IRTxRx\software\NFiR_v9\NFiR\obj\Debug\NFiR.csprojResolveAssemblyReference.cache
+V:\products\IRTxRx\software\NFiR_v9\NFiR\obj\Debug\NFiR.Form1.resources
+V:\products\IRTxRx\software\NFiR_v9\NFiR\obj\Debug\NFiR.Properties.Resources.resources
+V:\products\IRTxRx\software\NFiR_v9\NFiR\obj\Debug\NFiR.csproj.GenerateResource.Cache

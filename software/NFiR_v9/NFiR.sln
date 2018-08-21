@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFiR", "NFiR\NFiR.csproj", "{E1877C42-7C63-493D-B4C7-934B05C01C10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1877C42-7C63-493D-B4C7-934B05C01C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1877C42-7C63-493D-B4C7-934B05C01C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1877C42-7C63-493D-B4C7-934B05C01C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1877C42-7C63-493D-B4C7-934B05C01C10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
